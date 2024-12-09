@@ -179,6 +179,9 @@
     align-items: center;
     justify-content: center;
 }
+.productionCompanyImage img{
+  width: 100px;
+}
 .bottomGap{
     margin-top: 2.1rem;
     padding: 1rem 0;

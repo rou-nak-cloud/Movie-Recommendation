@@ -1,4 +1,5 @@
 Movie Recommendation Website
+
 This project is a movie and TV show recommendation website built using React.js. Users can explore:
 
 Latest Movies and TV Shows: Discover the most recent releases.
